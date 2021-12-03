@@ -3,7 +3,7 @@ remote_theme: chesterhow/tale
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
-url:            "https://yejin-im.github.io"
+url:            "https://yejin-im.github.io/derivative"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
